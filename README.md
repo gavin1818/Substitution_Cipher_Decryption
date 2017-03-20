@@ -1,1 +1,1 @@
-README.md
+Using FrequencyAnalysis to decode substitution ciphers. Turn in the result as decodedCryptogram.txt
